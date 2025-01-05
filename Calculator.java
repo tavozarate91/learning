@@ -1,4 +1,4 @@
-//Interface Gus
+//Interface Gustavo
 public interface Calculator{
     String calculate(String expression);
 }
