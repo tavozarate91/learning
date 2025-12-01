@@ -5,11 +5,7 @@ public interface Calculator{
     int sum (a, b);
 }
 
-//Testing Daniela
-
-
 //Implementation by Camilo
-//
 public Class Calculator{
     public int result;
     public int x;
@@ -26,3 +22,5 @@ public Class Calculator{
     }
 
 }
+
+//Testing by Gustavo
