@@ -6,6 +6,9 @@ public interface Calculator{
 }
 
 //Testing Daniela
+...
+...
+...
 
 
 //Implementation by Camilo
