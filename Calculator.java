@@ -5,6 +5,8 @@ public interface Calculator{
 }
 
 //Implementation by Camilo
+//Dont forget to update the amount of hours
 
 
 //Testing by Gustavo
+//Do it fast using chatgpt
