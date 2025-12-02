@@ -15,15 +15,18 @@ public class TestCalculator {
         int sum = calc.sum();
         System.out.println("Sum: " + sum);          // Expected: 12
         System.out.println("Result field: " + calc.result); // Expected: 12
+        //ok
 
         Calculator calc = new Calculator(0, -1);
         int sum = calc.sum();
         System.out.println("Sum: " + sum);          // Expected: -1
         System.out.println("Result field: " + calc.result); // Expected: -1
+        //ok
 
         Calculator calc = new Calculator(0, 0);
         int sum = calc.sum();
         System.out.println("Sum: " + sum);          // Expected: 0
         System.out.println("Result field: " + calc.result); // Expected: 0
+        //ok
     }
 }
