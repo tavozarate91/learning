@@ -5,6 +5,7 @@ public interface Calculator{
 }
 
 //Implementation by Camilo
+//to do
 //Dont forget to update the amount of hours
 
 
@@ -28,5 +29,7 @@ public class TestCalculator {
         System.out.println("Sum: " + sum);          // Expected: 0
         System.out.println("Result field: " + calc.result); // Expected: 0
         //ok
+
+        //to do #4
     }
 }
