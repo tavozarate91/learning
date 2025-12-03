@@ -45,6 +45,6 @@ public class TestCalculator {
         int sum = calc.sum();
         System.out.println("Sum: " + sum);          // Expected: -5
         System.out.println("Result field: " + calc.result); // Expected: -5
-        
+        //ok
     }
 }
