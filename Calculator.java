@@ -1,5 +1,9 @@
 public interface Calculator{
     String calculate(String expression);
+
+public interface Calculator{
+    String calculate(String expression, 
+        HashMap<String, String> symbols);
 }
 
 @Test
